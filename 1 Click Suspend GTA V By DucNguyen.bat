@@ -1,37 +1,3 @@
-::[Bat To Exe Converter]
-::
-::fBE1pAF6MU+EWHreyHcjLQlHcCWGMWK0OpEZ++Pv4Pq7sl4OQfEvfYHflLGWJYA=
-::YAwzoRdxOk+EWAjk
-::fBw5plQjdCyDJGyX8VAjFDpQQQ2MAE+/Fb4I5/jHueze9hhFULU5L9uJ2efZeeMQ7EHlJJB1hyxbwJhYVU0WdxGkDg==
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSDk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbCXqZg==
-::ZQ05rAF9IAHYFVzEqQJhaDhYRQeJfFivFaUZ5uy7yN6m4ntddvt/XJrY9LObOeUdig==
-::eg0/rx1wNQPfEVWB+kM9LVsJDFXCH2ezBb5c2/3o/++Jpg06YMN/Ts/5w/SqNeM97VD9cJhN
-::fBEirQZwNQPfEVWB+kM9LVsJDFXCH2ezBb5c2/3o/++Jpg06YMN/Ts/5w/SqNeM97VD9cJhN
-::cRolqwZ3JBvQF1fEqQJhaDhYRQeJfFivFaUZ5uy7yN6m4ntddvt/XJrY9LObOeUdig==
-::dhA7uBVwLU+EWH2R92w3PQJRQkSxM22uEbQO7Yg=
-::YQ03rBFzNR3SWATE0FczBhxBVQGMfFi1AKEL6fr+jw==
-::dhAmsQZ3MwfNWATEVosTJwtNXg2FNH/6JKxczP34we2Su0gTFNEwfpvM26aLQA==
-::ZQ0/vhVqMQ3MEVWAtB9wSA==
-::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRnk
-::Zh4grVQjdCyDJGyX8VAjFDpQQQ2MAE+/Fb4I5/jHvqqkrkQeX6IMbZzL37qKYMcnywXSNbQ0ll5Pm+ULGQJdcFyudgpU
-::YB416Ek+ZG8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 @echo off
 title 1 Click Suspend GTA V By DucNguyen
 
